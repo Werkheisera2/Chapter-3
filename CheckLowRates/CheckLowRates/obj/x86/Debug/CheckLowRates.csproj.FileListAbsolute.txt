@@ -1,0 +1,6 @@
+C:\Users\Kimberly\AppData\Local\Temporary Projects\CheckLowRates\bin\Debug\CheckLowRates.exe
+C:\Users\Kimberly\AppData\Local\Temporary Projects\CheckLowRates\bin\Debug\CheckLowRates.pdb
+C:\Users\Kimberly\AppData\Local\Temporary Projects\CheckLowRates\obj\x86\Debug\CheckLowRates.exe
+C:\Users\Kimberly\AppData\Local\Temporary Projects\CheckLowRates\obj\x86\Debug\CheckLowRates.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowRates\obj\x86\Debug\CheckLowRates.exe
+C:\Users\Kimberly\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowRates\obj\x86\Debug\CheckLowRates.pdb
