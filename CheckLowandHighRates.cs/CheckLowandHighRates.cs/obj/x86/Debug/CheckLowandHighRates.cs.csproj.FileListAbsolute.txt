@@ -1,0 +1,6 @@
+C:\Users\Kimberly\AppData\Local\Temporary Projects\CheckLowandHighRates.cs\bin\Debug\CheckLowandHighRates.cs.exe
+C:\Users\Kimberly\AppData\Local\Temporary Projects\CheckLowandHighRates.cs\bin\Debug\CheckLowandHighRates.cs.pdb
+C:\Users\Kimberly\AppData\Local\Temporary Projects\CheckLowandHighRates.cs\obj\x86\Debug\CheckLowandHighRates.cs.exe
+C:\Users\Kimberly\AppData\Local\Temporary Projects\CheckLowandHighRates.cs\obj\x86\Debug\CheckLowandHighRates.cs.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-3\CheckLowandHighRates.cs\CheckLowandHighRates.cs\obj\x86\Debug\CheckLowandHighRates.cs.exe
+C:\Users\Kimberly\Documents\GitHub\Chapter-3\CheckLowandHighRates.cs\CheckLowandHighRates.cs\obj\x86\Debug\CheckLowandHighRates.cs.pdb
